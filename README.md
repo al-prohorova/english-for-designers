@@ -1,2 +1,3 @@
 # English for Designers
-Course homework
+Hey you! 
+My name is Alina
