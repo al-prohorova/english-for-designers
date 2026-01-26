@@ -4,8 +4,3 @@ For our first assignment, I chose a picture from my archive. It shows a letter T
 ![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](characterT.png)
 
 Picture from my archive
-
-- - -
-
-**Alt text:** A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
-### Process
