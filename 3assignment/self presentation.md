@@ -1,6 +1,6 @@
 ## Self-presentation
 
-My short presentation about me and my work experience.
+A short presentation about myself and my work experience.
 
 ![Slide 1 introduction](self-presentation/1.png)
 ![Slide 2 about me](self-presentation/2.png)
