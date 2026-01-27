@@ -4,7 +4,7 @@ I completed this alt text exercise using both personal and AI-assisted approache
 
 ### My versions
 
-1. Handcrafted dark wooden Tau cross necklace
+1. Handcrafted dark wooden Tau cross necklace. **Character count** 43
 2. A wooden Tau cross, a symbol of Saint Francis of Assisi, handcrafted with an old look and used as a necklace.
 
 ### AI versions
