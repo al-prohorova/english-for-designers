@@ -14,3 +14,5 @@ I completed this alt text exercise by writing two on my own and generating a few
 
 ### Final version
 A handcrafted dark wooden Tau cross hanging from a simple dark brown cord with visible natural grain and dark knots. **Character count:** 116
+
+### Design with the letter
