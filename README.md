@@ -6,6 +6,7 @@ My name is **Alina** and this is my safe space for my *English for Designers* ho
 Better late than never!
 
 ## 📚 Course homeworks
-- Homework 01 – Add name
-- Homework 02 – Add name
-- Homework 03 – Add name
+- 1st Assignment
+- 2nd Assignment
+- 3rd Assignment
+- 4th Assignment
