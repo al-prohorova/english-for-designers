@@ -11,3 +11,6 @@ I completed this alt text exercise using both personal and AI-assisted approache
 
 3. A wooden Tau cross pendant hanging from a simple dark brown cord against a plain light gray background. **Character count:** 103
 4. A T-shaped Franciscan Tau cross carved from light-colored wood with visible natural grain and dark knots. The pendant features a raised border and is attached to a thin brown string by a small gold-toned metal loop. **Character count:** 216
+
+### Final version
+A handcrafted dark wooden Tau cross hanging from a simple dark brown cord with visible natural grain and dark knots. **Character count:** 116
