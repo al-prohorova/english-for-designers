@@ -1,6 +1,6 @@
 ## Self-presentation
 
-My short self-presentation about myself and 3 projects I made recently.
+My short self-presentation about myself.
 
 ![Alternative text](self-presentation/1.png)
 ![Alternative text](self-presentation/2.png)
