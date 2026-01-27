@@ -3,3 +3,11 @@
 I completed this alt text exercise using both personal and AI-assisted approaches, writing two on my own and generating a few with ChatGPT.
 
 ### My versions
+
+1. Handcrafted dark wooden Tau cross necklace
+2. A wooden Tau cross, a symbol of Saint Francis of Assisi, handcrafted with an old look and used as a necklace.
+
+### AI versions
+
+3. A wooden Tau cross pendant hanging from a simple dark brown cord against a plain light gray background.
+4. A T-shaped Franciscan Tau cross carved from light-colored wood with visible natural grain and dark knots. The pendant features a raised border and is attached to a thin brown string by a small gold-toned metal loop.
