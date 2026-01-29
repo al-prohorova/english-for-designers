@@ -11,4 +11,4 @@ A short presentation about myself and my work experience.
 ![Slide 4 design identity](self-presentation/4.png)
 **Design Identity:** My identity is built on research-based storytelling, clarity, and consistency. I believe design is interpretation, not decoration. My main focus areas include editorial design, cultural projects, and information design.
 ![Slide 5 ending](self-presentation/5.png)
-**Conclusion:** I wasn’t born a designer—I chose it because I believe art is a powerful, though challenging, tool. Design is how I make sense of complexity in the world around us. Thank you!
+**Conclusion:** I wasn’t born a designer - I chose it because I believe art is a powerful, though challenging, tool. Design is how I make sense of complexity in the world around us. Thank you!
