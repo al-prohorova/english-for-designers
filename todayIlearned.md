@@ -6,7 +6,7 @@ Not the healthy, productive kind of ambition, but the overwhelming kind, where y
 
 Psychology calls this *analysis paralysis*: when too many options make decision-making harder, not easier.
 
-I think a lot of ambitious people secretly struggle with this. From the outside, it can look like procrastination or lack of discipline. But internally, it’s often fear — fear of choosing wrong, wasting potential, or committing to one path while giving up hundreds of others.
+I think a lot of ambitious people secretly struggle with this. From the outside, it can look like procrastination or lack of discipline. But internally, it’s often fear: fear of choosing wrong, wasting potential, or committing to one path while giving up hundreds of others.
 
 We grew up hearing that we can be anything. Nobody warned us that having endless choices could become mentally exhausting.
 
