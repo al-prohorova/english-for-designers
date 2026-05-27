@@ -12,5 +12,5 @@ Better late than never!
 * [4th Assignment](4assignment/handshake.md)
 
 ## 📚 Summer semester
-* [1st Assignment](1assignment/character.md)
-* [2nd Assignment](2assignment/alttext.md)
+* [Storytelling](storytelling.md)
+* [Today I learned](todayIlearned.md)
