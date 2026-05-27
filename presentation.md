@@ -17,6 +17,7 @@
 - This connection to spirituality deeply influenced her art.
 - Her abstract works appeared before abstraction became officially recognized in modern art history.
 - This challenges the traditional narrative of who “invented” abstract art.
+![Slide 2 The Secret Pioneer](2.png)
 
 ---
 
@@ -27,6 +28,7 @@
 - They kept extremely detailed journals — over 26,000 pages.
 - The women believed art could communicate spiritual truths and a “new philosophy of life.”
 - This is important because it connects early abstract art with mysticism and psychology, not just aesthetics.
+![Slide 3 The Mystical Group “The Five”](3.png)
 
 ---
 
@@ -37,6 +39,7 @@
 - She described them almost like maps of the human soul.
 - The paintings were not meant to simply represent reality, but invisible emotions, spiritual ideas, and inner experiences.
 - This makes her work feel surprisingly modern even today.
+![Slide 4 The Paintings](4.png)
 
 ---
 
@@ -48,6 +51,7 @@
 - It also raises an interesting question:
   - Was she protecting her work from criticism?
   - Or did she believe the world simply was not ready yet?
+![Slide 5 The 20-Year Gag Order](5.png)
 
 ---
 
@@ -59,6 +63,7 @@
   - how women were excluded from art history,
   - how unconventional ideas are often dismissed at first,
   - and how recognition sometimes comes much later.
+![Slide 6 Legacy and Recognition](6.png)
 
 ---
 
@@ -68,3 +73,4 @@
 - Her work combines abstraction, spirituality, psychology, and symbolism in a unique way.
 - What makes her story powerful is that she created art without immediate validation or fame.
 - In the end, her legacy reminds us that important ideas are not always recognized right away.
+![Slide 7 Conclusion](7.png)
