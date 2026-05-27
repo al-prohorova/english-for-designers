@@ -5,7 +5,7 @@
 - They collect materials from galleries, theaters, film productions, exhibitions, and events, and instead of throwing everything away, they redistribute it to artists and cultural spaces.
 - What I really liked about the project is that it’s not just about recycling — it’s about giving materials a second creative life.
 - I wanted the branding to feel artistic, fresh, and community-oriented, not like a typical environmental campaign.
-![Slide 1 introduction](Slide 1.png)
+- ![Slide 1 introduction](Slide 1.png)
 ---
 
 ## Slide 2 — Slogans
