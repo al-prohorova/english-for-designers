@@ -6,6 +6,7 @@
 - For a long time, art history credited men like Kandinsky as the inventors of abstraction.
 - But Hilma af Klint was creating abstract paintings years earlier, mostly in secret.
 - Her story is interesting because it combines art, spirituality, mystery, and the question of who gets remembered in history.
+![Slide 1 introduction](1.png)
 
 ---
 
